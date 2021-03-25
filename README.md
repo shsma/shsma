@@ -1,4 +1,5 @@
-- 👋  - Hi, I’m Shady AKA @shsma ⚡️⚡️✨✨
+- 👋  - Hi, I’m Shady ⚡️⚡️
+- ⭐️  - AKA @shsma ✨✨
 - 🍁  - A software Engineer based in Montreal, Canada 🍁
 - 🌍  - A code enthusiast interested in Machine Learning and MLOps ☀️☀️
 - 🌱  - I do cherish critical thinking 💫⭐️🌟
