@@ -2,7 +2,7 @@
 - 🍁  - Software Engineer based in Montreal, Canada 🍁
 - 🌍  - Code enthusiast interested in Machine Learning and MLOps ☀️☀️
 - 🌱  - Critical thinking advocate 💫⭐️🌟
-- 💞️  - Eternal dreamer and a problem solver
+- 💞️  - Eternal dreamer and problem solver
 - 📫  - You can reach me at: 
                 - 🤖 shady@veloxsolutions.ca 
                 - 🤖 shadysmaoui@gmail.com
