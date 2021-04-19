@@ -1,3 +1,6 @@
+[![Shady Smaoui is a Digital Consultant & Software Engineer.](https://www.thegearpage.net/board/index.php?media/batsignal.60474/full)](https://shadysmaoui.ca)
+
+
 - 👋 - Hi, I’m Shady ⚡️ AKA @shsma ✨
 - 🍁 - Software Engineer 👨🏻‍💻  based in Montreal, Canada 🇨🇦🍁
 - 👾 - Code enthusiast interested in Machine Learning and MLOps 🤖
