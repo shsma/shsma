@@ -1,10 +1,39 @@
+<h3> Hello 🌍! </h3>
 
-- 👋 - Hi, I’m Shady ⚡️ AKA @shsma ✨
+- 👋 - I’m Shady ⚡️ AKA @shsma ✨
 - 🍁 - Software Engineer 👨🏻‍💻  based in Montreal, Canada 🇨🇦🍁
 - 👾 - Code enthusiast interested in Machine Learning and MLOps 🤖
 - 🤔 - Critical thinking 🌱 advocate 📢
 - 💭 - Eternal Dreamer 🌍  and Problem Solver 💡
 - 📫 - You can reach me at: - 📧 shady@veloxsolutions.ca -  📧  shadysmaoui@gmail.com
+
+<br>
+
+### 🔧 Tools & Technologies
+
+[![Python](https://img.shields.io/badge/python%20-%2314354C?&style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC?&style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Javascript](https://img.shields.io/badge/javascript%20-%23323330?&style=flat&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
+[![Php](https://img.shields.io/badge/php%20-%23007BCA?&style=flat&logo=php&logoColor=white)](https://php.net/)
+[![Django](https://img.shields.io/badge/django%20-%23092E20?&style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Laravel](https://img.shields.io/badge/laravel-35495E?&style=flat&logo=laravel&ogoColor=white)](https://www.larael.com.com/)
+[![React](https://img.shields.io/badge/react%20-%2320232a?&style=flat&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![Vue](https://img.shields.io/badge/vue-35495E?&style=flat&logo=vue.js&logoColor=%4FC08D)](https://vuejs.org/)
+[![GraphQL](https://img.shields.io/badge/graphql-E10098?&style=flat&logo=graphql&logoColor=white)](https://graphql.org/)
+[![Git](https://img.shields.io/badge/git%20-%23F05033?&style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![Apollo GraphQL](https://img.shields.io/badge/apollo%20graphql-6610f2?&style=flat&logo=apollo%20graphql&logoColor=white)](https://www.apollographql.com/)
+[![Docker](https://img.shields.io/badge/docker%20-%230db7ed?&style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS%20-%23FF9900?&style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+
+
+<br>
+
+<details>
+  <summary style="font-size: 1.17em;"><strong>📈 Github Stats</strong></summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=shsma&show_icons=true&theme=vue&layout=compacte&count_private=true"/>
+  &nbsp;<span>.</span>&nbsp;&nbsp;<span>.</span>&nbsp;&nbsp;<span>.</span>&nbsp;&nbsp;<span>.</span>&nbsp;&nbsp;<span>.</span>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shsma&theme=vue&hide=html&layout=compact"/>
+</details>
 
 [![Shady Smaoui is a Digital Consultant & Software Engineer.](https://www.thegearpage.net/board/index.php?media/batsignal.60474/full)](https://shadysmaoui.ca)
 
