@@ -19,6 +19,7 @@
 [![Laravel](https://img.shields.io/badge/laravel-35495E?&style=flat&logo=laravel&ogoColor=white)](https://www.larael.com.com/)
 [![React](https://img.shields.io/badge/react%20-%2320232a?&style=flat&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![Vue](https://img.shields.io/badge/vue-35495E?&style=flat&logo=vue.js&logoColor=%4FC08D)](https://vuejs.org/)
+<br>
 [![GraphQL](https://img.shields.io/badge/graphql-E10098?&style=flat&logo=graphql&logoColor=white)](https://graphql.org/)
 [![Git](https://img.shields.io/badge/git%20-%23F05033?&style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![Apollo GraphQL](https://img.shields.io/badge/apollo%20graphql-6610f2?&style=flat&logo=apollo%20graphql&logoColor=white)](https://www.apollographql.com/)
