@@ -16,7 +16,7 @@
 [![Javascript](https://img.shields.io/badge/javascript%20-%23323330?&style=flat&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 [![Php](https://img.shields.io/badge/php%20-%23007BCA?&style=flat&logo=php&logoColor=white)](https://www.php.net/)
 [![Django](https://img.shields.io/badge/django%20-%23092E20?&style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Laravel](https://img.shields.io/badge/laravel-35495E?&style=flat&logo=laravel&ogoColor=white)](https://www.laravel.com.com/)
+[![Laravel](https://img.shields.io/badge/laravel-35495E?&style=flat&logo=laravel&ogoColor=white)](https://www.laravel.com/)
 [![React](https://img.shields.io/badge/react%20-%2320232a?&style=flat&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![Vue](https://img.shields.io/badge/vue-35495E?&style=flat&logo=vue.js&logoColor=%4FC08D)](https://vuejs.org/)
 [![GraphQL](https://img.shields.io/badge/graphql-E10098?&style=flat&logo=graphql&logoColor=white)](https://graphql.org/)
