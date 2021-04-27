@@ -15,6 +15,7 @@
 [![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC?&style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Javascript](https://img.shields.io/badge/javascript%20-%23323330?&style=flat&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 [![Php](https://img.shields.io/badge/php%20-%23007BCA?&style=flat&logo=php&logoColor=white)](https://php.net/)
+<br>
 [![Django](https://img.shields.io/badge/django%20-%23092E20?&style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Laravel](https://img.shields.io/badge/laravel-35495E?&style=flat&logo=laravel&ogoColor=white)](https://www.larael.com.com/)
 [![React](https://img.shields.io/badge/react%20-%2320232a?&style=flat&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
