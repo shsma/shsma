@@ -27,10 +27,10 @@
 
 <br>
 
-[![Git](https://img.shields.io/badge/git%20-%23F05033?&style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+### Github Stats  [![Git](https://img.shields.io/badge/git%20-%23F05033?&style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 <details>
   <summary style="font-size: 1.17em;">
-    <strong>Github Stats 📈</strong>
+    <strong>Details</strong>
   </summary>
   <img style="width:40%;" src="https://github-readme-stats.vercel.app/api?username=shsma&show_icons=true&theme=vue&layout=compacte&count_private=true"/>
   <img style="width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shsma&theme=vue&hide=html&layout=compact"/>
