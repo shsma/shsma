@@ -32,8 +32,10 @@
   <summary style="font-size: 1.17em;"><strong>📈 Github Stats</strong></summary>
   <img style="width:40%;" src="https://github-readme-stats.vercel.app/api?username=shsma&show_icons=true&theme=vue&layout=compacte&count_private=true"/>
   &nbsp;<span>.</span>&nbsp;&nbsp;<span>.</span>&nbsp;&nbsp;<span>.</span>&nbsp;&nbsp;<span>.</span>&nbsp;&nbsp;<span>.</span>&nbsp;
-  <img style="width:40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shsma&theme=vue&hide=html&layout=compact"/>
+  <img style="width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shsma&theme=vue&hide=html&layout=compact"/>
 </details>
+
+<br>
 
 [![Shady Smaoui is a Digital Consultant & Software Engineer.](https://www.thegearpage.net/board/index.php?media/batsignal.60474/full)](https://shadysmaoui.ca)
 
