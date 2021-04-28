@@ -37,6 +37,7 @@
 [![Numpy](https://img.shields.io/badge/numpy-white?&style=flat&logo=numpy&logoColor=darkblue)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/pandas-lightgrey?&style=flat&logo=pandas&logoColor=pink)](https://pandas.pydata.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-white?&style=flat&logo=jupyter&logoColor=orange)](https://jupyter.org/)
+<br>
 [![Mysql](https://img.shields.io/badge/mysql-grey?&style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Postgresql](https://img.shields.io/badge/postgresql-lightgrey?&style=flat&logo=postgresql&logoColor=blue)](https://www.postgresql.org/)
 [![Mongodb](https://img.shields.io/badge/mongodb-yellowgreen?&style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
