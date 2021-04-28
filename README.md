@@ -8,6 +8,7 @@
 - 📫 - You can reach me at: - 📧 shady@veloxsolutions.ca -  📧  shadysmaoui@gmail.com
 
 <br>
+<hr>
 
 ### 🔧 Tools & Technologies
 
@@ -24,8 +25,8 @@
 [![Docker](https://img.shields.io/badge/docker%20-%230db7ed?&style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![AWS](https://img.shields.io/badge/AWS%20-%23FF9900?&style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
-
 <br>
+<hr>
 
 ### Github Stats  [![Git](https://img.shields.io/badge/git%20-%23F05033?&style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 <details>
