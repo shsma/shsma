@@ -23,6 +23,7 @@
 [![Flask](https://img.shields.io/badge/flask%20-%2314354C?&style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Lumen](https://img.shields.io/badge/lumen-yellow?&style=flat&logo=lumen&logoColor=white)](https://lumen.laravel.com/)
 [![Laravel](https://img.shields.io/badge/laravel-35495E?&style=flat&logo=laravel&ogoColor=white)](https://www.laravel.com/)
+[![Symfony](https://img.shields.io/badge/symfony-black?&style=flat&logo=symfony&logoColor=white)](https://symfony.com/)
 [![React](https://img.shields.io/badge/react%20-%2320232a?&style=flat&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![Vue](https://img.shields.io/badge/vue-35495E?&style=flat&logo=vue.js&logoColor=%4FC08D)](https://vuejs.org/)
 [![GraphQL](https://img.shields.io/badge/graphql-E10098?&style=flat&logo=graphql&logoColor=white)](https://graphql.org/)
@@ -44,7 +45,7 @@
 [![Git](https://img.shields.io/badge/git%20-%23F05033?&style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![Github](https://img.shields.io/badge/github-grey?&style=flat&logo=github&logoColor=white)](https://github.com)
 [![Gitlab](https://img.shields.io/badge/gitlab-blueviolet?&style=flat&logo=gitlab&logoColor=orange)](https://about.gitlab.com/)
-[![Bitbucket](https://img.shields.io/badge/bitbuxket-blue?&style=flat&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
+[![Bitbucket](https://img.shields.io/badge/bitbucket-blue?&style=flat&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
 
 
 
