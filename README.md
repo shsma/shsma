@@ -17,6 +17,8 @@
 [![Javascript](https://img.shields.io/badge/javascript%20-%23323330?&style=flat&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 [![Nodejs](https://img.shields.io/badge/node.js-green?&style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Php](https://img.shields.io/badge/php%20-%23007BCA?&style=flat&logo=php&logoColor=white)](https://www.php.net/)
+[![Express](https://img.shields.io/badge/express-green?&style=flat&logo=express&logoColor=white)](https://expressjs.com/)
+[![Nest.js](https://img.shields.io/badge/nestjs-ff69b4?&style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Django](https://img.shields.io/badge/django%20-%23092E20?&style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/flask%20-%2314354C?&style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Lumen](https://img.shields.io/badge/lumen-yellow?&style=flat&logo=lumen&logoColor=white)](https://lumen.laravel.com/)
@@ -27,8 +29,18 @@
 [![Apollo GraphQL](https://img.shields.io/badge/apollo%20graphql-6610f2?&style=flat&logo=apollo%20graphql&logoColor=white)](https://www.apollographql.com/)
 [![Docker](https://img.shields.io/badge/docker%20-%230db7ed?&style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![AWS](https://img.shields.io/badge/AWS%20-%23FF9900?&style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![S3](https://img.shields.io/badge/S3-orange?&style=flat&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/)
 [![K8S](https://img.shields.io/badge/kubernetes%20-blue?&style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Tensorflow](https://img.shields.io/badge/tensorflow%20-orange?&style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-white?&style=flat&logo=jupyter&logoColor=orange)](https://jupyter.org/)
+[![Mysql](https://img.shields.io/badge/mysql-grey?&style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Postgresql](https://img.shields.io/badge/postgresql-lightgrey?&style=flat&logo=postgresql&logoColor=blue)](https://www.postgresql.org/)
+[![Mongodb](https://img.shields.io/badge/mongodb-yellowgreen?&style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Elasticsearch](https://img.shields.io/badge/elasticsearch-lightblue?&style=flat&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
+
+
+
+
 
 
 
