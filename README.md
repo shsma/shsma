@@ -37,6 +37,9 @@
 [![Postgresql](https://img.shields.io/badge/postgresql-lightgrey?&style=flat&logo=postgresql&logoColor=blue)](https://www.postgresql.org/)
 [![Mongodb](https://img.shields.io/badge/mongodb-yellowgreen?&style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Elasticsearch](https://img.shields.io/badge/elasticsearch-lightblue?&style=flat&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
+[![Git](https://img.shields.io/badge/git%20-%23F05033?&style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![github](https://img.shields.io/badge/github-grey?&style=flat&logo=github&logoColor=white)](https://github.com)
+
 
 
 
@@ -47,7 +50,7 @@
 <br>
 <hr>
 
-### Github Stats  [![Git](https://img.shields.io/badge/git%20-%23F05033?&style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+### Github Stats  
 <details>
   <summary style="font-size: 1.17em;">
     <strong>Details</strong>
