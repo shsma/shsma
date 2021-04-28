@@ -1,6 +1,6 @@
 <h3> Hello 🌍! </h3>
 
-- 👋 - I’m Shady ⚡️ AKA @shsma ✨
+- 👋 - I’m Shady ⚡️ AKA `@shsma` ✨
 - 🍁 - Software Engineer 👨🏻‍💻  based in Montreal, Canada 🇨🇦🍁
 - 👾 - Code enthusiast interested in Machine Learning and MLOps 🤖
 - 🤔 - Critical thinking 🌱 advocate 📢
