@@ -42,7 +42,10 @@
 [![Mongodb](https://img.shields.io/badge/mongodb-yellowgreen?&style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Elasticsearch](https://img.shields.io/badge/elasticsearch-lightblue?&style=flat&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
 [![Git](https://img.shields.io/badge/git%20-%23F05033?&style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![github](https://img.shields.io/badge/github-grey?&style=flat&logo=github&logoColor=white)](https://github.com)
+[![Github](https://img.shields.io/badge/github-grey?&style=flat&logo=github&logoColor=white)](https://github.com)
+[![Gitlab](https://img.shields.io/badge/gitlab-blueviolet?&style=flat&logo=gitlab&logoColor=orange)](https://about.gitlab.com/)
+[![Bitbucket](https://img.shields.io/badge/bitbuxket-blue?&style=flat&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
+
 
 
 
