@@ -12,11 +12,12 @@
 
 ### 🔧 Tools & Technologies
 
-[![Python](https://img.shields.io/badge/python%20-%2314354C?&style=flat&logo=python&logoColor=%23F7DF1A)](https://www.python.org/)
-[![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC?&style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Javascript](https://img.shields.io/badge/javascript%20-%23323330?&style=flat&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
-[![Nodejs](https://img.shields.io/badge/node.js-green?&style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Php](https://img.shields.io/badge/php%20-%23007BCA?&style=flat&logo=php&logoColor=white)](https://www.php.net/)
+[![Golang](https://img.shields.io/badge/Golang%20-%23007ACC?&style=flat&logo=go&logoColor=white)](https://go.dev/)
+[![Python](https://img.shields.io/badge/Python%20-%2314354C?&style=flat&logo=python&logoColor=%23F7DF1A)](https://www.python.org/)
+[![Typescript](https://img.shields.io/badge/Typescript%20-%23007ACC?&style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Javascript](https://img.shields.io/badge/Javascript%20-%23323330?&style=flat&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
+[![Nodejs](https://img.shields.io/badge/Node.js-green?&style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Php](https://img.shields.io/badge/PHP%20-%23007BCA?&style=flat&logo=php&logoColor=white)](https://www.php.net/)
 [![Express](https://img.shields.io/badge/express-green?&style=flat&logo=express&logoColor=white)](https://expressjs.com/)
 [![Nest.js](https://img.shields.io/badge/nestjs-ff69b4?&style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Django](https://img.shields.io/badge/django%20-%23092E20?&style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
