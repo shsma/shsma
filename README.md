@@ -28,7 +28,7 @@
 [![Laravel](https://img.shields.io/badge/laravel-35495E?&style=flat&logo=laravel&ogoColor=white)](https://www.laravel.com/)
 [![Symfony](https://img.shields.io/badge/symfony-black?&style=flat&logo=symfony&logoColor=white)](https://symfony.com/)
 ---
-[![ReactJ](https://img.shields.io/badge/ReatJs%20-%2320232a?&style=flat&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![ReactJ](https://img.shields.io/badge/ReactJs%20-%2320232a?&style=flat&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![VueJ](https://img.shields.io/badge/VueJs-35495E?&style=flat&logo=vue.js&logoColor=%4FC08D)](https://vuejs.org/)
 [![GraphQL](https://img.shields.io/badge/Graphql-E10098?&style=flat&logo=graphql&logoColor=white)](https://graphql.org/)
 [![Apollo GraphQL](https://img.shields.io/badge/Apollo%20Graphql-6610f2?&style=flat&logo=apollo%20graphql&logoColor=white)](https://www.apollographql.com/)
