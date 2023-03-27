@@ -28,12 +28,6 @@
 [![Laravel](https://img.shields.io/badge/laravel-35495E?&style=flat&logo=laravel&ogoColor=white)](https://www.laravel.com/)
 [![Symfony](https://img.shields.io/badge/symfony-black?&style=flat&logo=symfony&logoColor=white)](https://symfony.com/)
 ---
-[![ReactJ](https://img.shields.io/badge/ReactJs%20-%2320232a?&style=flat&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
-[![VueJ](https://img.shields.io/badge/VueJs-35495E?&style=flat&logo=vue.js&logoColor=%4FC08D)](https://vuejs.org/)
-[![GraphQL](https://img.shields.io/badge/Graphql-E10098?&style=flat&logo=graphql&logoColor=white)](https://graphql.org/)
-[![Apollo GraphQL](https://img.shields.io/badge/Apollo%20Graphql-6610f2?&style=flat&logo=apollo%20graphql&logoColor=white)](https://www.apollographql.com/)
-![CSS3](https://img.shields.io/static/v1?message=CSS3&style=flat&logo=css3&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
----
 [![Docker](https://img.shields.io/badge/docker%20-%230db7ed?&style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![K8S](https://img.shields.io/badge/Kubernetes%20-blue?&style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![AWS](https://img.shields.io/badge/AWS%20-%23FF9900?&style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
@@ -47,6 +41,12 @@
 [![Numpy](https://img.shields.io/badge/numpy-white?&style=flat&logo=numpy&logoColor=darkblue)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/pandas-lightgrey?&style=flat&logo=pandas&logoColor=pink)](https://pandas.pydata.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-white?&style=flat&logo=jupyter&logoColor=orange)](https://jupyter.org/)
+---
+[![ReactJ](https://img.shields.io/badge/ReactJs%20-%2320232a?&style=flat&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![VueJ](https://img.shields.io/badge/VueJs-35495E?&style=flat&logo=vue.js&logoColor=%4FC08D)](https://vuejs.org/)
+[![GraphQL](https://img.shields.io/badge/Graphql-E10098?&style=flat&logo=graphql&logoColor=white)](https://graphql.org/)
+[![Apollo GraphQL](https://img.shields.io/badge/Apollo%20Graphql-6610f2?&style=flat&logo=apollo%20graphql&logoColor=white)](https://www.apollographql.com/)
+![CSS3](https://img.shields.io/static/v1?message=CSS3&style=flat&logo=css3&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ---
 [![Mysql](https://img.shields.io/badge/Mysql-grey?&style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Postgresql](https://img.shields.io/badge/Postgresql-lightgrey?&style=flat&logo=postgresql&logoColor=blue)](https://www.postgresql.org/)
