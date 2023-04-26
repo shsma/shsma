@@ -33,7 +33,6 @@
 [![AWS](https://img.shields.io/badge/AWS%20-%23FF9900?&style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-bluelight?&style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Azure](https://img.shields.io/badge/Azure-blue?&style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-[![S3](https://img.shields.io/badge/S3-orange?&style=flat&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/)
 ---
 [![Tensorflow](https://img.shields.io/badge/tensorflow%20-orange?&style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Pytorch](https://img.shields.io/badge/pytorch-blueviolet?&style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
