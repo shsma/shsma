@@ -1,10 +1,10 @@
 <h3> Hello 🌍! </h3>
 
-- 👋 - I’m Shady ⚡️ AKA `@shsma` ✨
+- 👋 - I’m Shady ⚡️
 - 🍁 - Senior Software Engineer 👨🏻‍💻  based in Montreal, Canada 🇨🇦🍁
 - 👾 - Code enthusiast interested in Machine Learning and MLOps 🤖
-- 🤔 - Critical thinking 🌱 advocate 📢
-- 💭 - Eternal Dreamer 🌍  and Problem Solver 💡
+- 🤔 - Critical thinking 🌱💭 advocate 📢
+- ✨ - Eternal Dreamer 🌍  and Problem Solver 💡
 - 📫 - You can reach me at: - 📧 shady@veloxsolutions.ca -  📧  shadysmaoui@gmail.com
 
 <br>
