@@ -5,7 +5,7 @@
 - 👾 - Code enthusiast interested in Machine Learning and MLOps 🤖
 - 🤔 - Critical thinking 🌱💭 advocate 📢
 - ✨ - Eternal Dreamer 🌍  and Problem Solver 💡
-- 📫 - You can reach me at: - 📧 shady@veloxsolutions.ca -  📧  shadysmaoui@gmail.com
+- 📫 - You can reach me at: - 📧  shadysmaoui@gmail.com
 
 <br>
 <hr>
