@@ -68,14 +68,16 @@
     <strong>Details</strong>
   </summary>
   <img style="width:40%;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shsma&show_icons=true&theme=vue&count_private=true"/>
-  <img style="width:50%;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shsma&theme=vue&langs_count=10&hide=html,php,blade,dockerfile&layout=compact&exclude_repo=delvelabs,shopyshop-workspace,ml-bg-seldon,ml-seldon,ml-cortex,shopyshop-django,dockerize-flask,python-courses"/>
+  <img style="width:40%;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shsma&theme=vue&langs_count=10&hide=html,php,blade,dockerfile&layout=compact&exclude_repo=delvelabs,shopyshop-workspace,ml-bg-seldon,ml-seldon,ml-cortex,shopyshop-django,dockerize-flask,python-courses"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shsma&theme=vue" />
+  
+## **Visitor count since 07-03-2024**
+
+<img src="https://profile-counter.glitch.me/shsma/count.svg">
 </details>
 
 <br>
 
-## **VISITOR COUNT since 07-03-2024**
-
-<img src="https://profile-counter.glitch.me/shsma/count.svg">
 <!---
 [![Shady Smaoui is a Digital Consultant & Software Engineer.](https://www.thegearpage.net/board/index.php?media/batsignal.60474/full)](https://shadysmaoui.ca)
 --->
