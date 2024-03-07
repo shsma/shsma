@@ -72,6 +72,10 @@
 </details>
 
 <br>
+
+## **VISITOR COUNT since 07-03-2024**
+
+<img src="https://profile-counter.glitch.me/shsma/count.svg">
 <!---
 [![Shady Smaoui is a Digital Consultant & Software Engineer.](https://www.thegearpage.net/board/index.php?media/batsignal.60474/full)](https://shadysmaoui.ca)
 --->
