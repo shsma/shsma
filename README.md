@@ -1,13 +1,13 @@
-<h3> Hello 🌍! </h3>
+<!-- <h3> Hello 🌍! </h3>
 
 - 👋 - I’m Shady ⚡️
 - 🍁 - Senior Software Engineer 👨🏻‍💻  based in Canada 🇨🇦🍁
 - 👾 - Code enthusiast interested in Machine Learning and MLOps 🤖
 - 🤔 - Critical thinking 🌱💭 advocate 📢
-- ✨ - Eternal Dreamer 🌍  and Problem Solver 💡
+- ✨ - Eternal Dreamer 🌍  and Problem Solver 💡 -->
 - 📫 - You can reach me at: - 📧  shadysmaoui@gmail.com
 
-<br>
+<!-- <br>
 <hr>
 
 ### 🔧 Tools & Technologies
@@ -76,7 +76,7 @@
 <img src="https://profile-counter.glitch.me/shsma/count.svg">
 </details>
 
-<br>
+<br> -->
 
 <!---
 [![Shady Smaoui is a Digital Consultant & Software Engineer.](https://www.thegearpage.net/board/index.php?media/batsignal.60474/full)](https://shadysmaoui.ca)
